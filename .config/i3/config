@@ -135,3 +135,5 @@ for_window [class=".*"] border pixel 8
 hide_edge_borders smart
 gaps inner 12
 smart_gaps on
+
+exec --no-startup-id feh --bg-scale /home/user/image
